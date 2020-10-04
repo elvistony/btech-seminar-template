@@ -1,6 +1,6 @@
 # B.Tech - Seminar Report
 #### Template - VAST
-###### Developed by Asst.Prof Arun Xavier
+###### Developed by Asst.Prof Arun Xavier (All Rights Reserved to Arun Xavier)
 
 ### Screenshots
 <img src="git_hosting/sample1.jpg" alt="Title Page" width="350"/> <img src="git_hosting/sample2.jpg" alt="Certificate Page" width="350"/>
@@ -30,7 +30,7 @@
 #### FAQ
 
 - The PDF generated has the borders misplaced and fonts are inaccurate.
-  - This maybe because the Editor you're using is compiling the Tex file using a Compiler other than `pdfLatex`
+  - This maybe because the Editor you're using is compiling the Tex file using a Compiler other than `pdfLatex`.
     Use `pdflatex` as your compiler and it should be fine.
 
 - I see errors in the Console and the PDF is not Generating.
@@ -39,4 +39,9 @@
 
 #### Documented By
 Elvis Tony
+
+#### Developed By
+Arun Xavier  - [ArunX Academia EEE](https://arunxeee.blogspot.com/) 
+
+<i>All Rights Reserved to Arun Xavier</i>
 
