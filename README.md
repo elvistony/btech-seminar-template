@@ -3,8 +3,7 @@
 ###### <i> developed by Asst.Prof Arun Xavier</i>
 
 ### Screenshots
-![Sample1](git_hosting/sample1.jpg "Title Page")  ![Sample2](git_hosting/sample2.jpg "Certificate Page")
-
+<img src="git_hosting/sample1.jpg" alt="Title Page" width="350"/> <img src="git_hosting/sample2.jpg" alt="Certificate Page" width="350"/>
 
 #### Steps to Make this Report:
 - Clone this Repository or Download the Zip [Here](https://github.com/elvistony/btech-seminar-template/archive/main.zip "Seminar Template")
