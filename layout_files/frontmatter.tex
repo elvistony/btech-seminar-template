@@ -1,0 +1,36 @@
+%
+%  
+\fancypagestyle{plain}{%
+\fancyhf{} % clear all header and footer fields
+\fancyhead[L]{{\scriptsize \vtitle}}
+\fancyhead[R]{\includegraphics[width=0.5cm]{layout_files/VidyaLogo.JPG}}
+%\fancyfoot[C]{\bfseries \thepage} 
+\fancyfoot[L]{{\footnotesize Department of Electrical \& Electronics Engg.}}
+\fancyfoot[R]{\footnotesize VAST, Thalakotukara}
+\fancyfoot[C]{\footnotesize \bf \thepage}%
+\renewcommand{\headrulewidth}{1pt}%
+\renewcommand{\footrulewidth}{1pt}%
+}%
+%
+%
+\pagestyle{empty}
+%
+\input{layout_files/titlepage}
+%
+\clearpage
+\pagenumbering{roman}
+%
+
+
+%\addcontentsline{toc}{chapter}{\quad Certificate}
+\input{layout_files/certificate}
+%
+\clearpage
+\pagestyle{plain}
+%
+
+\addcontentsline{toc}{chapter}{\quad ACKNOWLEDGEMENT}
+\input{layout_files/acknowledgment}
+%
+\clearpage
+%
